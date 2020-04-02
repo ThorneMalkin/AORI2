@@ -18,9 +18,9 @@ J'aimerais faire mon travail sur ce sujet parce que :
 
 [voir ressource n°2 ici](https://www.realite-virtuelle.com/comment-fonctionne-realite-virtuelle/)
 
-[voir ressource n°3](https://www.360natives.com/fonctionnement-realite-virtuelle/)
+[voir ressource n°3 ici](https://www.360natives.com/fonctionnement-realite-virtuelle/)
 
-
+![casque VR et télécommandes](https://dyw7ncnq1en5l.cloudfront.net/optim/produits/16/19990/sony-playstation-vr_cd507805f6142bee__450_400.jpg)
 
 
 b) **les films à choix multiples**
@@ -37,4 +37,6 @@ J'aimerais travailler sur ce sujet parce que:
 [voir ressource n°1 ici](https://fr.wikipedia.org/wiki/Fiction_interactive)
 
 [voir ressource n°2 ici](https://plus.lesoir.be/199462/article/2019-01-08/episode-interactif-de-black-mirror-netflix-tente-lillusion-du-choix-multiple)
+
+![l'épisode interactif "bandersnatch" de la série blackmirror](https://fr.web.img3.acsta.net/pictures/18/12/28/13/25/4689890.jpg)
 
