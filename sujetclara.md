@@ -1,6 +1,7 @@
 **Mes propositions de sujet**
 
 Voici par ordre de préférence les sujets que j'aimerais traiter dans le cadre du travail de fin d'année
+
 a) **les casques de réalité virtuelle**
 ----------------------------------------
 J'aimerais faire mon travail sur ce sujet parce que : 
